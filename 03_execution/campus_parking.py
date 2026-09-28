@@ -38,9 +38,12 @@ def questions():
         print("How long are you planning to park for? Please type in the format hours_minutes (i.e. 6_24), then press enter")
         catch = input()
         print("Your estimated cost is", costCalculator(catch),"$")
-        
-main()
 
-
+#try:
+#    main()
+#except TypeError:
+#    print("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+#else:
+#    main()      
 
     
