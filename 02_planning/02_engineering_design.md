@@ -51,6 +51,7 @@ Program output: please type the current amount of time you have parked for in th
 User input: 5_22 
 
 //(5+0.367)*2
+a
 
 Program output: Your estimated cost is 10.73$
 ```

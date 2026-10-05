@@ -5,7 +5,6 @@ def main():
     while True:
         try:
             questions()
-            print("fuck")
             break
         except ValueError,TypeError,RuntimeError:
             print("wrong input try again")

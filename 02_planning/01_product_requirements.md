@@ -24,6 +24,7 @@ Write three things the program must do. Make each one specific enough to test.
 1. The program must calculate the price of parking based on the amount of hours
 2. The program must be able to calculate based on half numbers as well as whole numbers (floats)
 3. The program must be easy and simple to use and be usable from the console
+a
 
 ## Not included
 
